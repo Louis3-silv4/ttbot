@@ -1,4 +1,5 @@
                     
+const { job } = require("cron");
 const { CronJob } = require("cron");
 const rwClient = require("./twitterClient.js")                               // Acesso aos tokens            
                             
@@ -26,4 +27,10 @@ const tweet = async () =>  {
     }
 }
 
-tweet()
+const agenda = new CronJob(0 11 * * 1, () =>{
+
+    tweet()
+
+})
+
+agenda.start()
