@@ -1,0 +1,100 @@
+2022-05-23T13:35:54.924535+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=5f155c26-abbb-4bff-8f40-833c41ae427f fwd="44.202.229.172" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T14:06:12.079220+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=c6bb9783-a4e9-4e31-9366-a28f1a446ec5 fwd="54.205.66.31" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T14:34:50.125261+00:00 heroku[web.1]: State changed from crashed to starting
+2022-05-23T14:34:51.926165+00:00 heroku[web.1]: Starting process with command `npm start`
+2022-05-23T14:34:53.541344+00:00 app[web.1]: 
+2022-05-23T14:34:53.541355+00:00 app[web.1]: > botFrases@1.0.0 start
+2022-05-23T14:34:53.541355+00:00 app[web.1]: > node index.js
+2022-05-23T14:34:53.541356+00:00 app[web.1]: 
+2022-05-23T14:35:52.384776+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2022-05-23T14:35:52.431438+00:00 heroku[web.1]: Stopping process with SIGKILL
+2022-05-23T14:35:52.446075+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-05-23T14:35:52.554949+00:00 heroku[web.1]: Process exited with status 22
+2022-05-23T14:35:52.696810+00:00 heroku[web.1]: State changed from starting to crashed
+2022-05-23T14:35:59.139033+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=819b6f4b-62b6-4ee9-9c49-1a868979cd3b fwd="3.228.24.155" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T15:05:50.633121+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=16c40af4-59d4-4c1b-bffd-70f70ad5f8bf fwd="34.235.126.196" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T15:35:41.584000+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=c5e42617-5ad8-4d44-a207-83e1d720bc2b fwd="44.203.212.164" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T16:05:23.821352+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=76b1294c-60d4-4dd4-ac84-aac0af1b9cce fwd="3.83.120.185" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T16:35:04.993473+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=2ccff99f-da61-481e-ad6f-a47cf10316bb fwd="100.26.176.36" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T17:05:45.757047+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=da2bee07-eda6-43b9-8ab1-7c45c6d580ad fwd="3.234.214.228" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T17:35:28.965586+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=126cc72c-bc3a-4317-bd3e-e6c985347aa9 fwd="3.236.64.25" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T18:05:04.790746+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=722666a8-7786-44c4-9b66-9aec262ceaad fwd="44.202.62.164" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T18:35:12.647516+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=a1393b04-2442-4154-95cb-a50fd0ae2933 fwd="44.204.112.20" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T19:06:17.196471+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=dbeb2d7e-39b2-4090-8c40-ddcfabb8ddb0 fwd="3.239.189.52" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T19:35:23.140647+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=b3aae095-6d0e-418c-be8a-2bab430dde02 fwd="44.198.179.132" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T20:05:17.612285+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=5d2b8665-072e-4b30-a5e6-a70b50197938 fwd="54.242.248.192" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T20:11:37.198082+00:00 heroku[web.1]: State changed from crashed to starting
+2022-05-23T20:11:39.153760+00:00 heroku[web.1]: Starting process with command `npm start`
+2022-05-23T20:11:40.709844+00:00 app[web.1]: 
+2022-05-23T20:11:40.709854+00:00 app[web.1]: > botFrases@1.0.0 start
+2022-05-23T20:11:40.709855+00:00 app[web.1]: > node index.js
+2022-05-23T20:11:40.709855+00:00 app[web.1]: 
+2022-05-23T20:12:39.558399+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2022-05-23T20:12:39.604418+00:00 heroku[web.1]: Stopping process with SIGKILL
+2022-05-23T20:12:39.617264+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-05-23T20:12:39.741765+00:00 heroku[web.1]: Process exited with status 22
+2022-05-23T20:12:39.799136+00:00 heroku[web.1]: State changed from starting to crashed
+2022-05-23T20:35:28.630419+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=dea15c28-9a38-4b54-8ca3-c54f569b225c fwd="3.219.216.212" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T21:05:26.478992+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=d3b17574-8126-4bca-a06a-3102ed1b74df fwd="52.87.179.249" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T21:34:52.852860+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=bf064c9f-1347-4b34-9171-cb3c5e965218 fwd="3.80.12.83" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T22:06:00.223954+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=1027af20-0e90-4142-a8dd-45c3023f489e fwd="3.235.192.22" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T22:35:31.115815+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=33497a38-d087-4e99-b9f7-4554d4ac7c90 fwd="3.238.117.206" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T23:05:28.864610+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=b54bb24b-3bb0-48a3-800f-f80bb1e628a5 fwd="52.90.136.30" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-23T23:35:15.634326+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=f3e3a91b-1b42-482e-a45a-19eca21bb7ed fwd="54.166.211.62" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T00:06:34.229848+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=7e23dc8e-32a1-4501-a70f-be5ec7f73839 fwd="3.238.89.38" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T00:35:47.110136+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=b5aaa337-24b4-42f4-9995-35ac55686a3d fwd="44.200.114.211" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T01:06:01.167721+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=4a0a0b55-3f09-4d30-9877-8f42a338c7db fwd="54.162.153.100" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T01:35:32.730213+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=1493509a-cbbc-43df-9c88-e9af90f64e2c fwd="3.95.137.65" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T01:55:59.952650+00:00 heroku[web.1]: State changed from crashed to starting
+2022-05-24T01:56:01.842291+00:00 heroku[web.1]: Starting process with command `npm start`
+2022-05-24T01:56:03.413071+00:00 app[web.1]: 
+2022-05-24T01:56:03.413082+00:00 app[web.1]: > botFrases@1.0.0 start
+2022-05-24T01:56:03.413082+00:00 app[web.1]: > node index.js
+2022-05-24T01:56:03.413082+00:00 app[web.1]: 
+2022-05-24T01:57:02.322201+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2022-05-24T01:57:02.363307+00:00 heroku[web.1]: Stopping process with SIGKILL
+2022-05-24T01:57:02.381732+00:00 app[web.1]: Error waiting for process to terminate: No child processes
+2022-05-24T01:57:02.501332+00:00 heroku[web.1]: Process exited with status 22
+2022-05-24T01:57:02.640934+00:00 heroku[web.1]: State changed from starting to crashed
+2022-05-24T02:04:49.496812+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=d6663712-6949-4fc6-b53e-91fc197431ad fwd="44.204.217.191" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T02:35:29.364558+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=f8fcfdb9-a20c-446f-af33-67fb8c01f83a fwd="44.204.60.243" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T03:06:09.696543+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=44a43c59-b2a5-45f2-9261-609da800f646 fwd="44.203.50.166" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T03:34:53.878448+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=a3597d4f-a9db-4de2-bf37-a418d240da9f fwd="3.83.175.236" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T04:06:03.556530+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=9b7ec199-37f3-4683-9711-e1d57590d424 fwd="34.224.101.30" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T04:35:29.128946+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=87eec37d-f66c-4db6-a590-482546dca81c fwd="3.236.82.196" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T05:06:22.506548+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=0e245975-4afe-4031-b2fa-6445b8621ec8 fwd="54.226.8.102" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T05:35:51.666639+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=44af126f-085c-4374-bb23-f8ca698a5877 fwd="54.83.101.3" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T06:05:52.299403+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=43728295-48a7-4b2b-8351-3a8592c448e2 fwd="3.236.21.117" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T06:35:26.128167+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=35eeb62d-b2ed-45ff-9c0d-5100c05c0a0e fwd="18.209.11.124" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T07:24:25.577905+00:00 heroku[web.1]: State changed from crashed to starting
+2022-05-24T07:24:27.413750+00:00 heroku[web.1]: Starting process with command `npm start`
+2022-05-24T07:24:28.619266+00:00 app[web.1]: 
+2022-05-24T07:24:28.619281+00:00 app[web.1]: > botFrases@1.0.0 start
+2022-05-24T07:24:28.619281+00:00 app[web.1]: > node index.js
+2022-05-24T07:24:28.619281+00:00 app[web.1]: 
+2022-05-24T07:25:27.765330+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2022-05-24T07:25:27.853777+00:00 heroku[web.1]: Stopping process with SIGKILL
+2022-05-24T07:25:28.010746+00:00 heroku[web.1]: Process exited with status 137
+2022-05-24T07:25:28.072118+00:00 heroku[web.1]: State changed from starting to crashed
+2022-05-24T10:06:04.153037+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=f4717d86-c226-4b3d-9e6b-c9c6bd00b206 fwd="3.237.0.146" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T10:35:54.355251+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=fc9ebe60-da8f-42f2-95dc-1bed11a7e08d fwd="3.239.101.63" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T11:04:49.008765+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=f2f5f197-cc65-49c5-9ed6-be40571b8a30 fwd="18.234.185.102" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T11:35:00.489134+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=5b6d40e9-9011-466e-81d4-7678131af00e fwd="18.204.199.79" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T12:06:35.557620+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=305d5bf8-bbb1-4bb0-8ad1-0c377a671f2b fwd="3.231.207.80" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T12:36:09.591382+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=fierce-mountain-12768.herokuapp.com request_id=e3860077-b7b9-4dd7-8552-ead263c77ce1 fwd="35.173.57.167" dyno= connect= service= status=503 bytes= protocol=http
+2022-05-24T12:53:26.540396+00:00 app[api]: Starting process with command `heroku run` by user louisea1356@gmail.com
+2022-05-24T12:53:28.870797+00:00 heroku[run.2842]: Awaiting client
+2022-05-24T12:53:28.887775+00:00 heroku[run.2842]: Starting process with command `heroku run`
+2022-05-24T12:53:28.924326+00:00 heroku[run.2842]: State changed from starting to up
+2022-05-24T12:53:32.205387+00:00 heroku[run.2842]: Process exited with status 127
+2022-05-24T12:53:32.406913+00:00 heroku[run.2842]: State changed from up to complete
+2022-05-24T13:00:51.778894+00:00 heroku[web.1]: State changed from crashed to starting
+2022-05-24T13:00:53.833073+00:00 heroku[web.1]: Starting process with command `npm start`
+2022-05-24T13:00:55.648931+00:00 app[web.1]: 
+2022-05-24T13:00:55.648972+00:00 app[web.1]: > botFrases@1.0.0 start
+2022-05-24T13:00:55.648973+00:00 app[web.1]: > node index.js
+2022-05-24T13:00:55.648974+00:00 app[web.1]: 
+2022-05-24T13:01:54.202875+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2022-05-24T13:01:54.315100+00:00 heroku[web.1]: Stopping process with SIGKILL
+2022-05-24T13:01:54.520333+00:00 heroku[web.1]: Process exited with status 137
+2022-05-24T13:01:54.610153+00:00 heroku[web.1]: State changed from starting to crashed

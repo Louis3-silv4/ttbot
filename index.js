@@ -27,7 +27,7 @@ const tweet = async () =>  {
     }
 }
 
-const agenda = new CronJob("0 11 * * 1-7", () =>{
+const agenda = new CronJob("7 11 * * *", () =>{
 
     tweet()
 
